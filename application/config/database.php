@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'classified',
+	'hostname' => '185.224.137.172',
+	'username' => 'u985136637_uni',
+	'password' => 'Classified@2020',
+	'database' => 'u985136637_unidb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
