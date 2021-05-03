@@ -26,6 +26,7 @@ class Home extends CI_Controller{
         $this->load->view('public/listing.php',$data);
         $this->load->view('public/inc/footer.php');
     }
+    //hy
 
     public function business($cat_slug=NULL,$slug=NULL){
         $slug = $this->uri->segment(4);
