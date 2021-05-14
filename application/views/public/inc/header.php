@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>U & I | A Unique Business Directory</title>
+  <title>Classified | A Unique Business Directory</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://fonts.googleapis.com/css?family=Poppins%7CQuicksand:500,700" rel="stylesheet">
@@ -21,7 +21,7 @@
 </script>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark font-weight-bold">
   <div class="container">
-    <a class="navbar-brand" href="<?= base_url('Home/index');?>">U & I ONLINE</a>
+    <a class="navbar-brand" href="<?= base_url('Home/index');?>">CLASSIFIED</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

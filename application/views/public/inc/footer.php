@@ -7,7 +7,7 @@
                <div class="logo-part">
                   <!--<img src="https://i.ibb.co/sHZz13b/logo.png" class="w-50 logo-footer" >--> 
                   <p class="logo-footer">U & I</p>
-                  <p>C/O Hari Om Agency</p>
+                  <p>Abc Nagar</p>
                   <p>Bhatta Durgabari, Purnea</p>
                   <p>Bihar - 854301</p>
                </div>
